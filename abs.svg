@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.45014485"
-     inkscape:cx="314.34326"
-     inkscape:cy="574.25959"
+     inkscape:cx="327.6723"
+     inkscape:cy="516.50041"
      inkscape:window-width="1440"
      inkscape:window-height="781"
      inkscape:window-x="0"
@@ -38,13 +38,37 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient992">
+      <stop
+         style="stop-color:#00005c;stop-opacity:1;"
+         offset="0"
+         id="stop988" />
+      <stop
+         style="stop-color:#097cff;stop-opacity:1;"
+         offset="1"
+         id="stop990" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient984">
+      <stop
+         style="stop-color:#e59700;stop-opacity:1;"
+         offset="0"
+         id="stop980" />
+      <stop
+         style="stop-color:#e5d600;stop-opacity:1;"
+         offset="1"
+         id="stop982" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient5277">
       <stop
-         style="stop-color:#fb5100;stop-opacity:1;"
+         style="stop-color:#008e80;stop-opacity:1;"
          offset="0"
          id="stop5273" />
       <stop
-         style="stop-color:#5bffc8;stop-opacity:1;"
+         style="stop-color:#5beeff;stop-opacity:1;"
          offset="1"
          id="stop5275" />
     </linearGradient>
@@ -56,6 +80,51 @@
        y1="151.05785"
        x2="211.01079"
        y2="149.29453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0446496,0,0,1.023685,-5.8994495,-4.1238057)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter903"
+       x="-0.045473685"
+       y="-0.050823532"
+       width="1.0909474"
+       height="1.1016471">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1159856"
+         id="feGaussianBlur905" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter929"
+       x="-0.065516783"
+       y="-0.061566031"
+       width="1.1310336"
+       height="1.1231321">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0004965"
+         id="feGaussianBlur931" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient984"
+       id="linearGradient986"
+       x1="57.601822"
+       y1="114.61588"
+       x2="136.36351"
+       y2="114.02811"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient992"
+       id="linearGradient994"
+       x1="89.341614"
+       y1="184.85483"
+       x2="199.2553"
+       y2="184.85483"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -63,12 +132,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient5279);fill-opacity:1;stroke-width:0.265698;stroke:#ff0000"
+       style="fill:url(#linearGradient5279);fill-opacity:1;stroke:#ff0000;stroke-width:0.274762"
        id="rect4851"
-       width="210.42302"
-       height="297.41351"
-       x="0.58777374"
-       y="0.58777374" />
+       width="219.81833"
+       height="304.4577"
+       x="-5.2854319"
+       y="-3.5221105" />
     <rect
        style="fill:#e08200;fill-opacity:1;stroke-width:0.130921"
        id="rect4641-2-9"
@@ -77,6 +146,14 @@
        x="195.72865"
        y="8.2288322" />
     <rect
+       style="fill:#74ff6c;fill-opacity:1;stroke-width:0.175075"
+       id="rect4641-2-9-3"
+       width="2.3584039"
+       height="149.31458"
+       x="52.714733"
+       y="61.672134"
+       transform="matrix(0.72336847,-0.69046221,0.69704129,0.71703099,0,0)" />
+    <rect
        style="fill:#37fcff;fill-opacity:1;stroke-width:0.130921"
        id="rect4641-2-3"
        width="1.7633207"
@@ -84,7 +161,22 @@
        x="9.9921503"
        y="175.74435" />
     <rect
-       style="fill:#00005c;fill-opacity:1;stroke-width:0.320001"
+       style="fill:#37fcff;fill-opacity:1;stroke-width:0.235687"
+       id="rect4641-2-3-2"
+       width="3.177351"
+       height="200.85283"
+       x="-101.34155"
+       y="115.90462"
+       transform="matrix(0.73735317,-0.67550744,0.71087451,0.70331887,0,0)" />
+    <rect
+       style="fill:#00000d;fill-opacity:0.64412808;stroke-width:0.320001;filter:url(#filter929)"
+       id="rect111-9"
+       width="109.91369"
+       height="116.96696"
+       x="92.574371"
+       y="129.60413" />
+    <rect
+       style="fill:url(#linearGradient994);fill-opacity:1;stroke-width:0.320001"
        id="rect111"
        width="109.91369"
        height="116.96696"
@@ -112,7 +204,14 @@
        x="152.82118"
        y="39.968613" />
     <ellipse
-       style="fill:#e59700;fill-opacity:1;stroke-width:0.264583"
+       style="fill:#160e00;fill-opacity:0.330961;stroke-width:0.264583;filter:url(#filter903)"
+       id="path2871-3"
+       cx="84.051643"
+       cy="117.55476"
+       rx="55.838509"
+       ry="49.96077" />
+    <ellipse
+       style="fill:url(#linearGradient986);fill-opacity:1;stroke-width:0.264583"
        id="path2871"
        cx="80.525002"
        cy="114.02811"
@@ -144,7 +243,23 @@
        id="rect4641-0"
        width="3.5266423"
        height="222.76628"
-       x="54.075184"
-       y="46.43412" />
+       x="67.593979"
+       y="41.144157" />
+    <rect
+       style="fill:#ffea32;fill-opacity:1;stroke-width:0.292362"
+       id="rect4641-05"
+       width="3.1769202"
+       height="309.11145"
+       x="-25.412455"
+       y="32.199474"
+       transform="matrix(0.82282959,-0.56828819,0.63685969,0.77097973,0,0)" />
+    <rect
+       style="fill:#cf0000;fill-opacity:1;stroke-width:0.292362"
+       id="rect4641-05-2"
+       width="3.1769202"
+       height="309.11145"
+       x="-17.185984"
+       y="29.877104"
+       transform="matrix(0.82282959,-0.56828819,0.63685969,0.77097973,0,0)" />
   </g>
 </svg>
